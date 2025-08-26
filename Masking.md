@@ -68,9 +68,7 @@ $$
 * Mask me unwanted jagah pe **-∞** daal do.
 * Softmax ke baad:
 
-  $$
-  \text{softmax}(-∞) = 0
-  $$
+  $$\text{softmax}(-∞) = 0$$
 
   Matlab woh connection ignore ho gaya.
 
